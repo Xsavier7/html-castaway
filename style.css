@@ -190,3 +190,47 @@
     padding-bottom: 12px;
 }
 
+.plate-3 {
+    background: #000000;
+    border-radius: 32px;
+    height: 40vh;
+}
+
+.plate-3 h5 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #118DA8;
+}
+
+.plate-3 p {
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+    color: #FFFFFF;
+}
+
+.eael-mailchimp-input {
+    background: #191919;
+    border: 1px solid #191919;
+    border-radius: 6px;
+    width: 45vh;
+    height: 6vh;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.plate-3 button {
+    background: #118DA8;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+    border: none;
+    width: 10vh;
+    height: 5vh;
+}
